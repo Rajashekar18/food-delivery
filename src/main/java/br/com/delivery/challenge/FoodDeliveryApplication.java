@@ -9,6 +9,7 @@ public class FoodDeliveryApplication {
 	     //added comment2 to the master
 	 //added comment3 to the master
 	//added comment4 to the master
+	//added comment5 to the master
 	public static void main(String[] args) {
 		SpringApplication.run(FoodDeliveryApplication.class, args);
 	}
