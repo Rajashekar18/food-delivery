@@ -1,11 +1,10 @@
 Manifest-Version: 1.0
+Built-By: 91891
+Build-Jdk: 11.0.8
 Implementation-Title: food-delivery
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: 91891
 Implementation-Vendor-Id: food-delivery
-Build-Jdk: 1.8.0_231
-Implementation-URL: http://projects.spring.io/spring-boot/food-deliver
- y/
-Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/food-delivery/
+Created-By: Maven Integration for Eclipse
 
