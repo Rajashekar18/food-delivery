@@ -14,7 +14,7 @@ public class FoodDeliveryApplication {
 	//added 1st commit
 	//added 2nd commit
 	//added 1st commit to the local
-
+    //added 2nd commit to the local
 	
 
 	public static void main(String[] args) {
