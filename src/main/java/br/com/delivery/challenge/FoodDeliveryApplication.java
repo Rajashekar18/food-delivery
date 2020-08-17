@@ -12,6 +12,7 @@ public class FoodDeliveryApplication {
 	//added comment5 to the master
 	
 	//added 1st commit
+	//added 2nd commit
 	public static void main(String[] args) {
 		SpringApplication.run(FoodDeliveryApplication.class, args);
 	}
