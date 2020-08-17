@@ -8,7 +8,6 @@ public class FoodDeliveryApplication {
              //added comment1 to the master
 	     //added comment2 to the master
 	 //added comment3 to the master
-	//added comment4 to the local1 branch
 	public static void main(String[] args) {
 		SpringApplication.run(FoodDeliveryApplication.class, args);
 	}
