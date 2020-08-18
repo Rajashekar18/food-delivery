@@ -36,7 +36,7 @@ public class CustomerController {
 		logger.info("List Customers...");
 		return customerService.listCustomers();
 	}
-	
+	//master commit2  on controller
 	@GetMapping ("{id}")
 	public Customer findById(@PathVariable Long id) {
 		logger.info("Find Customer...");
