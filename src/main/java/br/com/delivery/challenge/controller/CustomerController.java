@@ -42,7 +42,7 @@ public class CustomerController {
 		logger.info("Find Customer...");
 		return customerService.findCustomerById(id);
 	}
-	
+	//local commit2 on controller
 	@PostMapping
 	public Customer insert(@Valid @RequestBody Customer customer) {
 		logger.info("Add new Customer...");
